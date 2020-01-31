@@ -5,7 +5,7 @@
 
 Develop a conversational Chatbot in Python with the personality of KITT from the [Knight Rider (1982–1986)](https://en.wikipedia.org/wiki/Knight_Rider) Television Series.
  
-This project was not intended to construct a program able pass the Turing test - or win the [Loebner Prize](https://medium.com/pandorabots-blog/mitsuku-wins-loebner-prize-2018-3e8d98c5f2a7#targetText=Mitsuku%20wins%20Loebner%20Prize%202018!&targetText=The%20Loebner%20Prize%202018%20was,Bruce%20Wilcox), but to inspire the authors appreciation of the design and engineering challenges when creating a conversational UI.
+This project was not intended to construct a program able pass the Turing test or win the [Loebner Prize](https://medium.com/pandorabots-blog/mitsuku-wins-loebner-prize-2018-3e8d98c5f2a7#targetText=Mitsuku%20wins%20Loebner%20Prize%202018!&targetText=The%20Loebner%20Prize%202018%20was,Bruce%20Wilcox), but to inspire the authors appreciation of the design and engineering challenges when creating a conversational UI.
 
 **Part of Series: 2/2**
 
