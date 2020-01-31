@@ -32,20 +32,19 @@ KITT Version 2 - Is a combination of `Brobot` code and my KITT Version 1's code 
 
 ### Reflections
 
-A little lost at the start of this project, as looking for something that can enhance programming knowledge with an AI focus, but not too big. The NLTK and working through the guidance on this does not meet that criteria.
+I was a little lost at the start of this project, as I was looking for something that can enhance programming knowledge with an AI focus, but not overwhelming in scope. The NLTK and working through the guidance on NLP applications did not meet that criteria!
 
-A Skim through all the chapters of the the NLTK Tutorial Book has been informative me on two fronts, firstly it is a detailed guide, not just for using NLP techniques in python with the massively helpful methods in the NLTK library, but also as an intermediate Pythonic tutorial itself, with a highly comprehensive refresher of Pythonic knowledge interweaved in the book.
+A skim through all the chapters of the the NLTK Tutorial Book has been informative me on two fronts, firstly it is a detailed guide, not just for using NLP techniques in python with the massively helpful methods in the NLTK library, but also as an intermediate Pythonic tutorial itself, with a highly comprehensive refresher of Pythonic knowledge interweaved in the book.
 
-However, once again the breadth and depth of NLP is a subject worthy of immense study of itself, and although working through the many excercises in this book would be a fantastic start, time is limited.
+However, once again the breadth and depth of NLP as a subject of study in-itself has proven problematic, and although working through the many excercises in this book would be a fantastic start, this went beyond the time frames possible for this project.
 
-In order to get the functionality I am looking for into KITT, I may have to use the example code and simpler NLP library (Textblob - which sits on the shoulders of the NLTK), by copying and hacking it from the Chatbot creation guide by Liza, however, I will only be able to produce an output, I won't understand *how or why* - perhaps this is the sacrifice I need to make to get started?
+In order to get the functionality I was looking for into KITT, I needed to use the example code and simpler NLP library (Textblob - which sits on the shoulders of the NLTK), by copying and hacking it from the Chatbot creation guide by Liza, however, I was able to produce an output, but I did not understand the *how or why* - perhaps this is the sacrifice I needed to make to get started?
 
-Went back to Liza Daly's tutorial, looked at her code in order to reverse engineer something and gain some understanding of the coded implementaton if not how/why it works.
+In order to progress I went back to Liza Daly's tutorial, looked at her code in order to reverse engineer something and gain some understanding of the coded implementaton.
 
-Bolted on my user input functionality from Kitt Version 1 - But have not included the randomised response function, as would mean too many changes to code that I have not touched to maintain functionality of the NLP parsing. (Basically, I don't know how Textblob or
-the imported logic works well enough to add my feature, and spending time on this aspect takes me further away from the core aim.
+I bolted on my user input functionality from Kitt Version 1 - But did not include the randomised response function, as this would heave meant too many changes to code that I have not touched to maintain functionality of the NLP parsing. I did not know how Textblob or the imported logic worked, well enough to add my feature, and spending time on this aspect would have taken me further from the core aim.
 
-A lot of learning gained and recorded into Jupyter Notebooks when coding this project, at least 20+ discrete writeups/lookups and additions to my learning notebooks. An absolute smasher in terms of learning experience.
+I gained a lot of learning when coding this project, at least 20+ discrete writeups/lookups, which were then new additions to my learning notebooks. An absolute smasher in terms of learning experience, if not of practical value ^^.
 
 ### Project Files
 
@@ -54,7 +53,3 @@ A lot of learning gained and recorded into Jupyter Notebooks when coding this pr
 * `filterwords.py`	List of Banned Words for filtering user input and Bot output.
 * `kitt_v2.1.0.py`	Main Program - runs from CMD Line or Interpreter.
 * `readme.md` Notes and Configuration.
-
-### Detailed Notes
-
-* For *raw* working notes and planning for the project, please see associated Jupyter Notebook in the "Learning Python" Section of this repository.
